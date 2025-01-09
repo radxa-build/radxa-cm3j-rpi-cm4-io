@@ -1,5 +1,5 @@
 # Radxa CM3J Compute Module with Raspberry Pi Compute Module 4 IO Board
-[![Build image for Release channel](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/build.yml) [![Build image for Test channel](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/test.yml)
+[![Build image for Release channel](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/build.yaml) [![Build image for Test channel](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/test.yaml/badge.svg)](https://github.com/radxa-build/radxa-cm3j-rpi-cm4-io/actions/workflows/test.yaml)
 
 ## What is this?
 
